@@ -1,0 +1,64 @@
+.cuadroGeneral{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap:wrap;
+    width: 1000px;
+    height: 1000px;
+}
+div{
+    display: flex;
+    justify-content: space-around;
+    width: 280px;
+    height: 280px;
+    padding: 1%;
+}
+.primerCuadro{
+    background-color:#0f62fe;
+    flex-wrap: wrap;
+}
+h1{
+    display: flex;
+    font-size: large;
+    width: 100px;
+    color:white;
+    font-weight: 600;
+
+}
+h2{
+    text-align: right;
+    width: 150px;
+    justify-self:flex-end;
+    font-size: medium;
+    color:rgba(255, 255, 255, 0.639);
+    font-style: italic;
+}
+img{
+    width: 220px;
+    height: 220px;
+    justify-content: center;
+}
+.cuadro{
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #b22234;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+}
+h3{
+    color:white;
+}
+
+
+.quintoCuadro{
+    background-color:#0f62fe;
+    flex-wrap: wrap;
+}
+
+.novenoCuadro{
+    background-color:#0f62fe;
+    flex-wrap: wrap;
+}
+
+
