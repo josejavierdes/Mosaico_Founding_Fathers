@@ -13,10 +13,24 @@ div{
     height: 280px;
     padding: 1%;
 }
-.primerCuadro{
+.cuadroImagen{
     background-color:#0f62fe;
     flex-wrap: wrap;
 }
+img{
+    width: 220px;
+    height: 220px;
+    justify-content: center;
+}
+.cuadro{
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #b22234;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+}
+
 h1{
     display: flex;
     font-size: large;
@@ -33,32 +47,7 @@ h2{
     color:rgba(255, 255, 255, 0.639);
     font-style: italic;
 }
-img{
-    width: 220px;
-    height: 220px;
-    justify-content: center;
-}
-.cuadro{
-    align-items: center;
-    flex-wrap: wrap;
-    background-color: #b22234;
-    color: white;
-    font-size: x-large;
-    text-align: center;
-}
+
 h3{
     color:white;
 }
-
-
-.quintoCuadro{
-    background-color:#0f62fe;
-    flex-wrap: wrap;
-}
-
-.novenoCuadro{
-    background-color:#0f62fe;
-    flex-wrap: wrap;
-}
-
-
