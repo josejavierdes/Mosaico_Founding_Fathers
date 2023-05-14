@@ -32,7 +32,6 @@ img{
 }
 
 h1{
-    display: flex;
     font-size: large;
     width: 100px;
     color:white;
@@ -42,12 +41,7 @@ h1{
 h2{
     text-align: right;
     width: 150px;
-    justify-self:flex-end;
     font-size: medium;
     color:rgba(255, 255, 255, 0.639);
     font-style: italic;
-}
-
-h3{
-    color:white;
 }
