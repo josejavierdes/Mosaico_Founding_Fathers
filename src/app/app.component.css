@@ -9,13 +9,13 @@
 div{
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
     width: 280px;
     height: 280px;
     padding: 1%;
 }
 .cuadroImagen{
     background-color:#0f62fe;
-    flex-wrap: wrap;
 }
 img{
     width: 220px;
@@ -24,7 +24,6 @@ img{
 }
 .cuadro{
     align-items: center;
-    flex-wrap: wrap;
     background-color: #b22234;
     color: white;
     font-size: x-large;
